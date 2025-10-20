@@ -1,0 +1,25 @@
+{
+  "name": "ksense-healthcare-assessment",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "A Node.js implementation that retrieves patient data, computes health risk scores, and submits alerts.",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.12.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benbathen/ksense.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benbathen/ksense/issues"
+  },
+  "homepage": "https://github.com/benbathen/ksense#readme"
+}
